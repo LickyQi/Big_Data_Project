@@ -4,5 +4,5 @@
 Hadoop + AWS +Machine Learning + MongoDB
 
 # Members：
-  Qi LI
-  Manal MOUAYANI
+  ## Qi LI
+  ## Manal MOUAYANI
