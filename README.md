@@ -8,7 +8,7 @@ Hadoop + AWS +Machine Learning + MongoDB
   ## Manal MOUAYANI
   
 ## Data preprocessing steps
-***1. Missing value processing***
-***2.Exception value processing***
-***3.Data normalization and standardization***
-***4. Data dimension reduction***
+#### ***1. Missing value processing***
+#### ***2.Exception value processing***
+#### ***3.Data normalization and standardization***
+#### ***4. Data dimension reduction***
