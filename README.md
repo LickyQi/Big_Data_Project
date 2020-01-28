@@ -7,5 +7,8 @@ Hadoop + AWS +Machine Learning + MongoDB
   ## Qi LI
   ## Manal MOUAYANI
   
-## 数据清洗的步骤
-***1、wqweq****
+## Data preprocessing steps
+***1. Missing value processing***
+***2.Exception value processing***
+***3.Data normalization and standardization***
+***4. Data dimension reduction***
