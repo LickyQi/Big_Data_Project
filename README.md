@@ -6,3 +6,6 @@ Hadoop + AWS +Machine Learning + MongoDB
 # Members：
   ## Qi LI
   ## Manal MOUAYANI
+  
+## 数据清洗的步骤
+***1、wqweq****
