@@ -4,8 +4,8 @@
 Hadoop + AWS +Machine Learning + MongoDB
 
 # Members：
-  ***Qi LI
-  ***Manal MOUAYANI
+  ### ***Qi LI***
+  ### ***Manal MOUAYANI***
   
 ## Data preprocessing steps
 #### ***1. Missing value processing***
