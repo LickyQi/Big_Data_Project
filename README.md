@@ -17,10 +17,10 @@ Hadoop + AWS + Machine Learning + MongoDB
 #### ***6.PCA dimensionality reduction***
 #### ***7.Sélection des caractères***
 #### ***8.Partitionnement de l'ensemble de données***
-#### ***9.Formation de modèle & Comparaison de modèles***
+#### ***9.Formation & Comparaison de modèles***
 #### ***10.Grid Search***
-#### ***10.Former le modèle sur toutes les données***
-#### ***11.Générer des résultats de prédiction***
+#### ***10.Formation du modèle sur toutes les données***
+#### ***11.Génération des résultats de prédiction***
 
 ## Visualisation avec MongoDB Compass
 
