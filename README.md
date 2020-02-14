@@ -8,7 +8,7 @@ Hadoop + AWS + Machine Learning + MongoDB
   ### ***Manal MOUAYANI***
   ### ***Lucas MARIE***
   
-## Étapes de traitement des données
+## Étapes de formation modèle
 #### ***1.Traitement les données en double***
 #### ***2.Resampling***
 #### ***3.Traitement de la valeur manquante***
