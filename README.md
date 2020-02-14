@@ -6,7 +6,7 @@ Hadoop + AWS +Machine Learning + MongoDB
 # Members：
   ### ***Qi LI***
   ### ***Manal MOUAYANI***
-  ### ***Lucas Marie***
+  ### ***Lucas MARIE***
   
 ## Étapes de prétraitement des données
 #### ***1.Traitement les données en double***
