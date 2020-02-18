@@ -19,8 +19,8 @@ Hadoop + AWS + Machine Learning + MongoDB
 #### ***8.Partitionnement de l'ensemble de données***
 #### ***9.Formation & Comparaison de modèles***
 #### ***10.Grid Search***
-#### ***10.Formation du modèle sur toutes les données***
-#### ***11.Génération des résultats de prédiction***
+#### ***11.Formation du modèle sur toutes les données***
+#### ***12.Génération des résultats de prédiction***
 
 ## Visualisation avec MongoDB Compass
 
